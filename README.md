@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Run With Al
 - 🌱 I’m currently learning Scala
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with ?
